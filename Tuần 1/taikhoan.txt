@@ -1,0 +1,10 @@
+tien 123 0
+tienc abc 2
+chi 12 1
+hedspi hedspi2020 1
+hust hust 0
+soict soict 2
+hello hello123 0
+abc ad 1
+adf a 2
+ffgh s 2
