@@ -1,0 +1,6 @@
+abc 123 1 126.58.99.199
+tien1 123 0 fb.com
+tien2 123 1 fb.com
+tien3 123 1 aznsc.test.com
+tien4 123 1 126.58.99.199
+tien5 123 1 youtube.com
